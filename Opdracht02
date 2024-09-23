@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opdracht02</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <h1> Dit is de website van YouTube</h1>
+    <p>
+        Op <a href="https://www.youtube.com/?hl=nl&gl=BE">YouTube</a> kan je allerlij verschillende video's bekijken.
+    </p>
+    <p><div class="a"></div> Dit zijn bijvoorbeeld <strong> kookvideo's</strong> of video's over <strong>games</strong></p>
+   <img src="img/YouTube-Logo.png" alt="Youtube"/>
+    
+</body>
+</html>
